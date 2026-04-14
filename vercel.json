@@ -1,0 +1,5 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "bash vercel-build.sh",
+  "installCommand": "pnpm install"
+}
